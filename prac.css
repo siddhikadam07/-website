@@ -1,0 +1,308 @@
+.footer{
+    border-bottom: 1px solid #0f0f0f;
+    background: #222222;
+    color: #999;
+    font-weight: 400;
+    padding: 80px 0 60px;
+    /* line-height: 30px; */
+}
+
+   .footer1{
+    width: 1170px;
+    
+   }
+
+   .row{
+    display: flex;
+    justify-content: center;
+     margin-right: -10%;
+     margin-left: 15%;
+    }
+
+    .col{
+        width: 25%;
+    }
+
+ .head h3{
+    font-weight: 200px;
+  font-size: 16px;
+   margin-bottom: 15px;
+   color: #999;
+}
+
+.ib{
+    /* color: #6a6a6a; */
+    font-size: 16px;
+    color: #999;
+    margin-right: 5px;
+    line-height: 30px;
+}
+
+.ib{
+    margin: 0;
+    padding: 0;
+    padding:5px 0
+}
+
+.ib li{
+    list-style-type: none;
+}
+
+.lv{
+    margin-left: 10%;
+}
+
+.twi{
+    display: inline-block;
+    display: table-cell;
+    vertical-align: top;
+    padding-right: 10px;
+    line-height: 20px;
+    /* font-weight: 200; */
+}
+
+.twi li{
+    list-style: none;
+}
+
+.twi1{
+   display: table-cell;
+    vertical-align: top;
+    width: 10000px;
+}
+
+.media-heading{
+    font-size: 16px;
+    color: #FF432E;
+    font-weight: 100;
+
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+
+.twi p{
+    font-size: 13px;
+    color: #999;
+    /* margin-left: 10%; */
+}
+
+.sw h3{
+    margin-left: 10% ;
+}
+
+.form p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #999;
+    line-height: 1.5em;
+    margin-left: 10%;
+}
+
+
+.form-control{
+    margin-left:10% ;
+    border-radius: 0;
+    border: 2px solid #111;
+
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+}
+
+.btn4{
+    background: #ff432e;
+    border-color: #ff432e;
+    font-size: 16px;
+    padding: 8px 15px;
+    margin-left: 10%;
+
+}
+
+.fs1{
+    margin-left: 30%;
+}
+
+
+.fs1 h3{
+    font-size: 16px;
+   margin-bottom: 15px;
+   color: #999;
+   font-weight: 200px;
+}
+
+.fs{
+    padding: 0;
+    margin: 0; 
+    margin-left: 30%; 
+
+}
+
+.fs li{
+    list-style-type: none;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    width: 23.97%;
+}
+
+.fs li .img-2{
+    width: 100%;
+    height: auto;
+}
+ 
+ .img-2{
+    display: block;
+    max-width: 100%;
+}
+
+
+
+/* .copy{
+    
+
+    border-top: 1px solid #363636;
+    font-size: 12px;
+    padding: 20px 0;
+    background: #1d1d1d;
+    color: #7f7f7f;
+    box-sizing: border-box;
+    /* line-height: 21px; */
+    /* margin-bottom: 0; */
+} */
+
+/* .copyright{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    /* padding-bottom: 0; */
+    /* width: 100%; */
+}
+
+/* .ro{
+        margin-right: -24%;
+        margin-left: 15%;
+       
+    } */ */
+
+    /* .col-6{
+        position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+   
+} */
+
+/* .copyy{
+    font-size: 16px;
+}
+     */
+
+
+/* .copyy a{
+    color: #7f7f7f;
+    text-decoration: none;
+    color: #7f7f7f;
+    outline: 0;
+    text-decoration: none;
+}
+
+.cop2{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+   
+}
+
+.pull-right {
+    float: right!important;
+}
+
+ul {
+    padding: 0;
+    margin: 0;}
+
+    .copyright-menu li {
+        display: inline;
+        padding-left: 10px;
+    }
+
+
+    .copyright-menu li a.active {
+        color: #fff;
+        font-size: 13px;
+        text-decoration: none;
+    }
+    .copyright-menu  li  a{
+        text-decoration: none;
+        color: #7f7f7f;
+
+    } */
+
+
+    .copyright-section {
+        border-top: 1px solid #363636;
+        font-size: 12px;
+        padding: 20px 0;
+        background: #1d1d1d;
+        color: #7f7f7f;
+    }
+
+    .container {
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .row9{
+        margin-right: -15px;
+        margin-left: 15px;
+    }
+
+    .col-md-7{
+        position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.copyright-section a {
+    color: #7f7f7f;
+}
+a, a:hover, a:focus, a:active {
+    outline: 0;
+    text-decoration: none;
+}
+
+.col-md-5{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.pull-right {
+    float: right;
+}
+.pull-right {
+    float: right!important;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+ul, ol {
+    list-style: none;
+}
+
+.copyright-menu li {
+    display: inline;
+    padding-left: 10px;
+}
